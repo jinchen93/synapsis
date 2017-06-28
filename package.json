@@ -15,7 +15,7 @@
     "webpack-demo": "webpack --watch src/demo/demo.js src/demo/bundle.js",
     "webworker": "webpack src/synapsis/mnist_worker.js static/synapsis/bundle_neural_network.js -w",
     "postinstall": "npm install express",
-    "deploy": "git subtree push — prefix dist heroku master"
+    "deploy": "git subtree push --prefix dist heroku master"
   },
   "dependencies": {
     "babel-preset-es2015": "^6.24.1",
