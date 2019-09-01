@@ -22,7 +22,7 @@
     "convnetjs": "^0.3.0",
     "d3": "^4.9.1",
     "d3-scale": "^1.0.6",
-    "uglifyjs-webpack-plugin": "^0.4.6",
+    "uglifyjs-webpack-plugin": "^2.2.0",
     "vue": "^2.3.3",
     "vue-router": "^2.3.1"
   },
